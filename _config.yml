@@ -1,10 +1,10 @@
 # Links on sidebar
 menu:
   Home: /
+  About: /about/
+  Tags: /tags/
+  Categories: /categories/
   Archive: /archives/
-  # Tags: /tags/
-  # Categories: /categories/
-  # About: /about/
 
 # Pictures shown on the sidebar
 # Use the absolute URL after generating
